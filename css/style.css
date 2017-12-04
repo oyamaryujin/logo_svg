@@ -1,0 +1,18 @@
+path {
+    fill-opacity: 0;
+    transition: fill-opacity 4s;
+  }
+
+.fill path.path_black{
+  fill: #000;
+  fill-opacity: 1;
+}
+
+.fill path.path_white{
+  fill: #ffffff;
+  fill-opacity: 1;
+}
+
+.fill path{
+stroke:none;
+}
